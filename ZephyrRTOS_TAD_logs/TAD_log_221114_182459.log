@@ -1,0 +1,12 @@
+"Task Aware Debugger for GDB" version 11.6.0 (202206271353)
+(c) 2016-2022 NXP Semiconductors, Inc.
+==================================
+18:23:39.113 INFO: [ZephyrRTOS] D:\Users\Nacho\Documentos\FACULTAD\ENIB\SEN\OS\LPC55S69_OS.src\Debug\.config file could not be read
+18:23:39.114 INFO: [TadModel] DSF session ID 0 has started.
+18:24:05.313 INFO: [TadState] TAD state changed: DEBUG_STARTED -> DEBUG_INIT_0 (RESUMED, USER_REQUEST)
+18:24:05.438 INFO: [TadState] TAD state changed: DEBUG_INIT_0 -> DEBUG_INIT_1 (SUSPENDED, SIGNAL)
+18:24:07.320 INFO: [TadState] TAD state changed: DEBUG_INIT_1 -> DEBUG_SUSPENDED (RESUMED, USER_REQUEST)
+18:24:07.639 INFO: [TadState] TAD state changed: DEBUG_SUSPENDED -> DEBUG_SUSPENDED (SUSPENDED, BREAKPOINT)
+18:24:34.950 INFO: [TadState] TAD state changed: DEBUG_SUSPENDED -> DEBUG_RESUMED (RESUMED, USER_REQUEST)
+18:24:57.423 INFO: [TadState] TAD state changed: DEBUG_RESUMED -> READY (SUSPENDED, SIGNAL)
+18:24:59.582 INFO: [TadModel] DSF session ID 0 has ended.
